@@ -1,4 +1,32 @@
-# 🐍 Python Foundations for Data Science
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:0F172A,50:155E75,100:0EA5E9&text=Python%20for%20Data%20Science%20Foundations&fontColor=FFFFFF&fontSize=25&desc=Python%2C%20CSV%2C%20JSON%2C%20APIs%20and%20data%20processing&descSize=13&descAlignY=76" alt="Python for Data Science Foundations" width="100%"/>
+
+<h2>Python for Data Science Foundations</h2>
+**Core Python labs preparing for analytics and data science.**
+
+[🏠 Main Profile](https://github.com/irfan129612-prog) · [📂 All Repositories](https://github.com/irfan129612-prog?tab=repositories) · [🔗 LinkedIn](https://www.linkedin.com/in/irfan1296/)
+</div>
+
+---
+
+## 🔎 Repository Overview
+
+| **Focus** | Python for Data Science Foundations |
+| :--- | :--- |
+| **Topics / Tools** | Python, CSV, JSON, APIs and data processing |
+| **Portfolio type** | Technical labs and project documentation |
+| **Maintainer** | [Irfan Ahmed](https://github.com/irfan129612-prog) |
+
+### Quick Navigation
+- [Lab and project documentation](#-lab-and-project-documentation)
+- [Documentation standard](#-documentation-standard)
+- [Contact](#-contact)
+
+> **Evidence note:** Documented activities and results should be evaluated from actual lab files and screenshots. Never expose credentials, real tokens, personal data or unauthorized security targets.
+
+---
+
+## 📚 Lab and Project Documentation
 
 A hands-on collection of **10 Python labs** designed to build a strong programming foundation for **Data Science, Data Analytics, Automation, and Python-based applications**.
 
@@ -435,3 +463,15 @@ Learning and building practical skills in:
 This repository is part of my practical learning portfolio and demonstrates my progression from **Python fundamentals to real-world data processing and automation**.
 
 If you find this repository useful, feel free to ⭐ the repository.
+
+---
+
+## 🗂 Documentation Standard
+
+For each lab, the recommended structure is **objective → prerequisites → implementation → verification → troubleshooting → lessons learned**. Add sanitized screenshots, code, configuration, datasets and expected output where available. This is an ongoing documentation standard, not a claim that every existing lab has all these components.
+
+## 🤝 Contact
+
+Maintained by **[Irfan Ahmed](https://github.com/irfan129612-prog)** · [LinkedIn](https://www.linkedin.com/in/irfan1296/)
+
+<p align="center"><sub>Learn → Implement → Verify → Document → Improve</sub></p>
