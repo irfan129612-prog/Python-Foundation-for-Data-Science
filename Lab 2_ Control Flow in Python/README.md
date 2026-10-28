@@ -685,3 +685,10 @@ This provides a strong foundation for future Python topics such as loops, functi
 **Irfan Ahmed**
 
 Python Learning & Practical Lab Portfolio
+
+
+---
+
+### 📚 Portfolio Navigation
+
+[← All Labs](../LAB_INDEX.md) · [Repository Overview](../README.md) · [Main Portfolio](https://github.com/irfan129612-prog)
