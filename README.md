@@ -26,6 +26,10 @@
 
 ---
 
+## 📑 Verified Lab Index
+
+**[Browse the actual lab files →](LAB_INDEX.md)** — links are generated from existing repository paths.
+
 ## 📚 Lab and Project Documentation
 
 A hands-on collection of **10 Python labs** designed to build a strong programming foundation for **Data Science, Data Analytics, Automation, and Python-based applications**.
